@@ -1,6 +1,6 @@
 {
   "name": "@shithsu/baileys-mod",
-  "version": "8.0.6",
+  "version": "8.0.7",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
     "whatsapp",
@@ -12,10 +12,10 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/Dilu-x/baileys-mod",
+  "homepage": "https://github.com/Dilu-x/baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dilu-x/baileys-mod.git"
+    "url": "git+ssh://git@github.com/Dilu-x/baileys.git"
   },
   "license": "MIT",
   "author": "shithsu",
@@ -97,6 +97,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/Dilu-x/baileys-mod/issues"
+    "url": "https://github.com/Dilu-x/baileys/issues"
   }
 }
